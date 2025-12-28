@@ -1,4 +1,5 @@
 Neon Glow Calculator
+![fe4c30fa-2699-4c0e-976f-eb9699d4002c](https://github.com/user-attachments/assets/b7954c9d-68ed-41b0-bfe7-2a76d30085d4)
 
 A modern and elegant calculator built with HTML, CSS, JavaScript, and PHP, featuring a Dark Glassmorphism UI with glowing neon effects.
 This project demonstrates logical implementation, real-time interaction, and a sleek, futuristic user interface.
